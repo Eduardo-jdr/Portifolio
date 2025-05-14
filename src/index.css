@@ -1,0 +1,24 @@
+:root {
+  --black: #090909;
+  --white: #ffffff;
+  --color01: #3AEA17;
+  --color02: #6009A5;
+  --color03: #10001C;
+  --color04: #ffffff;
+  --color05: #48C6FD;
+  
+
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+}
+
+body{
+  background-color: #10001C;
+  color: #6009A5;
+}
