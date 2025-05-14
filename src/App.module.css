@@ -6,12 +6,14 @@
    gap: 2vw;
    font-size: 1.4rem;
    height: 50px;
-   background-color: var(--orange);
+   background-color: var(--color03);
    color: var(--brow);
    position: fixed;
    top: 0;
    left: 0;
-   box-shadow: rgba(240, 146, 46, 0.4) 0px 5px, rgba(240, 133, 46, 0.3) 0px 10px, rgba(240, 140, 46, 0.2) 0px 15px, rgba(240, 185, 46, 0.1) 0px 20px, rgba(240, 153, 46, 0.05) 0px 25px;
+   box-shadow: 10px 10px 19px 0px rgba(43,237,11,0.75);
+-webkit-box-shadow: 10px 10px 19px 0px rgba(43,237,11,0.75);
+-moz-box-shadow: 10px 10px 19px 0px rgba(43,237,11,0.75);
 }
  
 .s1{
